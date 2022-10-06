@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(250, 232, 152);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+.constructionTape {
+    background: url(constructionTape\ Large.jpeg) center fixed;
+    height:calc(100vh - 56px);
+  }
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    text-shadow: rgb(247, 227, 52);
+}
